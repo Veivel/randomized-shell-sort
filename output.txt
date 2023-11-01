@@ -1,0 +1,91 @@
+generated at: Wed Nov  1 11:43:49 2023
+
+(small-sorted)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 0.006672 MB
+> time taken: 0.4921s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.005433 MB
+> time taken: 0.0098s
+
+(small-reverse)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 0.002404 MB
+> time taken: 0.4275s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.000244 MB
+> time taken: 0.0083s
+
+(small-random)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 0.002404 MB
+> time taken: 0.5167s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.000244 MB
+> time taken: 0.0263s
+
+(medium-sorted)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 0.14084 MB
+> time taken: 7.0830s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.002324 MB
+> time taken: 0.1575s
+
+(medium-reverse)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 0.14084 MB
+> time taken: 5.6410s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.000468 MB
+> time taken: 0.1328s
+
+(medium-random)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 0.14084 MB
+> time taken: 7.0024s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.000468 MB
+> time taken: 0.3781s
+
+(large-sorted)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 1.173032 MB
+> time taken: 63.6729s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.002028 MB
+> time taken: 1.4876s
+
+(large-reverse)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 1.173032 MB
+> time taken: 62.9070s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.000636 MB
+> time taken: 1.4807s
+
+(large-random)
+----- randomizedshellsort -----
+> is correct: True
+> memory usage: 1.173032 MB
+> time taken: 79.9198s
+----- maxheapsort -----
+> is correct: True
+> memory usage: 0.000636 MB
+> time taken: 4.1856s
